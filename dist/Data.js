@@ -1,9 +1,9 @@
 import { Serie } from "./Serie.js";
 export const series = [
-    new Serie(1, "Breaking Bad", "AMC", 5, "El profesor calmado de química de una secundaria, Walter White cree que su vida no puede ser peor. Su salario apenas le alcanza para sostener a su familia, una situación que no mejora cuando su esposa da a luz y su hijo adolescente sufre de parálisis cerebral, pero Walter queda anonadado cuando se entera que tiene un cáncer terminal. Al concluir que su enfermedad iba a arruinar financieramente a su familia, él toma una decisión desesperada con el fin de ganar más dinero durante el tiempo que le queda y transforma un viejo vehículo de recreación en un laboratorio de matanfetaminas sobre ruedas.", "https://www.imdb.com/es/title/tt0903747/", "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"),
-    new Serie(2, "Orange Is the New Black", "Netflix", 6, "Tras haber sido sentenciada por un año y medio de prisión, Piper Chapman se da cuenta de cómo la cárcel puede llegar a cambiar la vida de una persona.", "https://www.imdb.com/es/title/tt2372162/", "https://images.justwatch.com/poster/74106848/s718/orange-is-the-new-black.jpg"),
-    new Serie(3, "Game of Thrones", "HBO", 7, "Nueve familias de la nobleza luchan por el control de las místicas tierras de Westeros, mientras tanto un viejo enemigo regresa después de miles de años de estar oculto.", "https://www.imdb.com/es/title/tt0944947/", "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"),
-    new Serie(4, "The Big Bang Theory", "CBS", 12, "Una chica se muda a un apartamento frente al de unos físicos sumamente inteligentes pero socialmente raros y les demuestra lo poco que conocen de la vida fuera del laboratorio.", "https://www.imdb.com/es/title/tt0898266/", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJyZcew5KL4Pcs7Q_DWy4dLl20ZAPJKRNDFgLRJvskimoj7lpEld2EIrMfTo8PyUv3yyH3BM1Va5SuoozCJ2Bv0QoQpNgk1aXcL4v-9ok"),
-    new Serie(5, "Sherlock", "BBC", 4, "El famoso detective y su compañero doctor resuelven crímenes en Londres del siglo 21", "https://www.imdb.com/es/title/tt1475582/", "https://es.web.img3.acsta.net/pictures/15/11/20/12/35/130260.jpg"),
-    new Serie(6, "A Very English Scandal", "BBC", 2, "En 1979, el líder del partido liberal británico es acusado de conspirar para asesinar a su examante, otro hombre, y debe atender a juicio.", "https://www.imdb.com/es-es/title/tt6938856/", "https://upload.wikimedia.org/wikipedia/en/9/98/A_Very_English_Scandal.png")
+    new Serie(1, "Breaking Bad", "AMC", 5),
+    new Serie(2, "Orange Is the New Black", "Netflix", 6),
+    new Serie(3, "Game of Thrones", "HBO", 7),
+    new Serie(4, "The Big Bang Theory", "CBS", 12),
+    new Serie(5, "Sherlock", "BBC", 4),
+    new Serie(6, "A Very English Scandal", "BBC", 2)
 ];
